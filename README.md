@@ -55,10 +55,9 @@ The system will highlight each parking space and classify it as **Occupied** (Re
 
 ### Example Images
 
-![Example 1](images/example_1.png)
-![Example 2](images/example_2.png)
-![Example 3](images/example_3.png)
-![Example 4](images/example_4.png)
+![Image Alt](https://github.com/D-Expynos/Car-Parking-Detection/blob/main/Car_parking%20example_1.png)
+![Image Alt](https://github.com/D-Expynos/Car-Parking-Detection/blob/main/car_parking_example_2.jpg)
+![Image Alt](https://github.com/D-Expynos/Car-Parking-Detection/blob/main/car_parking_example_3.jpg)
 
 📌 **Detection Accuracy**: **95%**
 📌 **Processing Speed Improvement**: **40%**
